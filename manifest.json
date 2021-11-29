@@ -1,12 +1,12 @@
 {
-  "name": "Doc Racket Enhancement",
+  "name": "Racket Documentation Enhancement",
   "author": "Yanying Wang",
   "version": "0.1",
-  "homepage_url": "https://github.com/yanyingwang/doc-racket-enh",
-  "description": "a web browser plugin to enhance Racket Doc",
+  "homepage_url": "https://github.com/yanyingwang/racket-doc-enh",
+  "description": "a web browser plugin to enhance Racket Documentation",
   "page_action": {
     "browser_style": true,
-    "default_title": "Doc Racket Enhancement",
+    "default_title": "Racket Documentation Enhancement",
     "default_icon": {
       "16": "images/icon-16.png",
       "32": "images/icon-32.png",
